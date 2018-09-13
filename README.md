@@ -1,9 +1,7 @@
 # Gramoplay
 This Android project is a music player app called GramoPlay, aimed to seamlessly play music from music files stored on any android device and share and receive updates about songs played by other users of the app around the world. 
 
-The app provides a library of songs to provide real time lists according to song title, song artists and song albums. The app uses media controller to control the song being played by providing functionality to seek song, play/pause current song, play next, play previous, play forward and play backward. The app also provides functionality to search for a song in the music library. The app receives real time feed from all users using the app around the world and displays it in real time in the social feed section. 
-
-With numerous music service based apps already existing in the Android market, what makes our application stand out is that we focus on the music and the user, instead of ads and commercializing music. We want our users to listen to music in peace, without obtrusive ads or people trying to sell you something.
+The app provides a library of songs to provide real time lists according to song title, song artists and song albums. The app uses media controller to control the song being played by providing functionality to seek song, play/pause current song, play next, play previous, play forward and play backward. The app also provides functionality to search for a song in the music library. The app receives real time feed from all users using the app around the world and displays it in real time in the social feed section.
 
 Languages: Java, PHP, MySQL, HTML & CSS
 
