@@ -9,9 +9,9 @@ Languages: Java, PHP, MySQL, HTML & CSS
 
 Hosted our database as an online instance of MySQL on Google Cloud. The database consists of the following table - 
 
-____________________________________
+
 | ID | Name | Song | Artist | Album |
-|____|______|______|________|_______|
+
 
 Here, ID is the primary key, Name is the name of the user using the application, Song is the title of the music file being played, Artist and Album is the artist name and album name respectively.
 
