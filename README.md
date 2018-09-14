@@ -15,19 +15,13 @@ The application provides two basic services - Music Player and a Social Feed. Th
   
 **PRODUCT FUNCTIONS**
 
-LOGIN: After the initial splash screen, the user is asked to select a user name when using the app for the first time. This is stored in a file inside the internal SD Card memory. The user is then navigated to the library of the songs.
-
-PLAY MUSIC: Each page in the ViewPager loads different song lists, each sorted according to song title, artists and albums. Clicking on any list item in the song list, begins the playback with 
+* LOGIN: After the initial splash screen, the user is asked to select a user name when using the app for the first time. This is stored in a file inside the internal SD Card memory. The user is then navigated to the library of the songs.
+* PLAY MUSIC: Each page in the ViewPager loads different song lists, each sorted according to song title, artists and albums. Clicking on any list item in the song list, begins the playback with 
 the song list present on that page. 
-
-SHUFFLE: This randomizes the songlist being played.
-
-SEARCH: The user can enter the song title and play the requested song.
-
-MUSIC CONTROLLER: The music controller is implemented as a widget that gives Play, Pause, skip, seek, forward and  previous functions for playing songs in the music library.
-
-SOCIAL FEED: This leads the user to the social feed page where all the music updates are displayed in real-time. There is also a REFRESH button to reload the feed.
-
+* SHUFFLE: This randomizes the songlist being played.
+* SEARCH: The user can enter the song title and play the requested song.
+* MUSIC CONTROLLER: The music controller is implemented as a widget that gives Play, Pause, skip, seek, forward and  previous functions for playing songs in the music library.
+* SOCIAL FEED: This leads the user to the social feed page where all the music updates are displayed in real-time. There is also a REFRESH button to reload the feed.
 
 **CONCLUSION**
 
